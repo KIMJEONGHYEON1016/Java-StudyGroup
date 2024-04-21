@@ -5,23 +5,21 @@
 
 ## 스터디로그
 - __기간__: 2024. 04. 00. (월) ~ 2024. 04. 00. (화)
-- __참여__ (총 7인)
+- __참여__ (총 7인)<br>
+[@jeongsuri](https://github.com/jeongsuri), [@ChaeYoonch](https://github.com/ChaeYoonch), [@sunkyu0384](https://github.com/sunkyu0384)[@yeonhwa011](https://github.com/yeonhwa011)<br>
+[@parksaehyun](https://github.com/parksaehyun), [@KIMJEONGHYEON1016](https://github.com/KIMJEONGHYEON1016), [@jeyoungyu](https://github.com/jeyoungyu)
   
 - __주차별 주제 모아보기__
-  | No. | 💬 Main Topic | 공지사항 | 토론, 질의 | 내용정리 |
+  | No. | 💬 Main Topic | 공지사항 | 코딩테스트 | 내용정리 |
   |:----|:-----------|:-------------|:-------------|:-------------|
   ||||
-  | __1주차__<br>(03/28) | 객체지향 프로그래밍 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/6) | [토론,질의](https://github.com/jeongsuri/Java-StudyGroup/discussions/9) | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/11) |
-  | __2주차__<br>(04/04) | - | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/18) | [토론,질의](https://github.com/jeongsuri/Java-StudyGroup/discussions/10)  | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/15) | 
+  | __1주차__<br>(04/13) | 객체지향 프로그래밍 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/6) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/9) | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/11) |
+  | __2주차__<br>(04/20) | 객체, 예외처리<br>java.lang패키지, 유용한클래스 | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/18) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/10)  | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/15) | 
   ||||
-  | __4주차__<br>(04/18) | - | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/19) | [토론,질의](https://github.com/jeongsuri/Java-StudyGroup/discussions/13) | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/16) |
-  | __5주차__<br>(04/25) | - | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/20) | [토론,질의](https://github.com/jeongsuri/Java-StudyGroup/discussions/14) | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/17) |
+  | __4주차__<br>(04/27) | - | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/19) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/13) | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/16) |
+  | __5주차__<br>(05/04) | - | [공지사항](https://github.com/jeongsuri/Java-StudyGroup/discussions/20) | [코딩테스트](https://github.com/jeongsuri/Java-StudyGroup/discussions/14) | [내용정리](https://github.com/jeongsuri/Java-StudyGroup/discussions/17) |
 
 <br>
-
-## 하브루타(Havruta)?
-🙋🏻 친구 🙋🏻‍♀️ 를 의미하는 히브리어인 ‘하베르’에서 유래한 용어로, <br />
-학생들끼리 짝을 이루어 서로 질문을 주고 받으며 논쟁하는 유대인의 전통적인 토론 교육 방법입니다!
 
 ### 핵심 방법론
 1. 자신의 생각을 조직화하여 상대방에게 설명한다.
@@ -35,25 +33,21 @@
 - 주제공지 확인 후 개별 학습 진행
   - 주어진 영상시청 + 더궁금하다면 가볍게 찾아보기
   - 영상시청 후 내용정리
-- 페어 배정공지
-  - 1순위. 미션 페어를 안해본 사람끼리
-  - 2순위. 스터디페어를 안해본 사람끼리
 
 ### 🕕 월~목
 - 매일 강의를 통해 복습을 진행
 - 질문사항 및 좋은정보 정리
 
 ### 🕑 목요일 D-Day
-- 00:00 ~ 00:00 스터디 진행하기(미정)
+- 18:00 ~ 19:00 스터디 진행하기(미정)
   - __(권장 10분)__ 워밍업 토론
   - __(권장 40분)__ 메인토픽 토론 시작
   - __(권장 10분)__ 정리 및 회고
-- 20:00까지 내용정리를 [내용정리 게시판](https://github.com/jeongsuri/Java-StudyGroup/discussions/categories/%EB%82%B4%EC%9A%A9%EC%A0%95%EB%A6%AC)에 `edit`해서 추가로 붙여넣기
-- 20:00까지 토론,질문 [토론 및 질의 게시판](https://github.com/jeongsuri/Java-StudyGroup/discussions/categories/%EC%8A%A4%ED%84%B0%EB%94%94-%ED%86%A0%EB%A1%A0-%EC%A7%88%EB%AC%B8)에 코멘트로 올리기
+- 18:00까지 내용정리를 [내용정리 게시판](https://github.com/jeongsuri/Java-StudyGroup/discussions/categories/%EB%82%B4%EC%9A%A9%EC%A0%95%EB%A6%AC)에 `edit`해서 추가로 붙여넣기
+- 18:00까지 코테문제를 [코딩테스트 게시판](https://github.com/jeongsuri/Java-StudyGroup/discussions/categories/%EC%8A%A4%ED%84%B0%EB%94%94-%ED%86%A0%EB%A1%A0-%EC%A7%88%EB%AC%B8)에 코멘트로 올리기
   - 질문 개수 2~4개 권장
-  - 페어가 올린 질문 보고 나의 의견 생각해보고 토론 준비하기
-  - 질문 작성자가 페어의 의견과 본인의 의견 종합해서 정리
-  - 정리는 형식에 얽매이지 않고 페어와 어떤 얘기를 나눴는지 짤막하게 적어주세용 ❤️	
+  - 나의 의견 생각해보고 토론 준비하기
+  - 정리는 형식에 얽매이지 않고 어떤 얘기를 나눴는지 짤막하게 적어주세용 ❤️	
 
 ### ✅ 잠깐! 이것 만은 꼭…
 
